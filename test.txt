@@ -1,2 +1,2 @@
-Test two
+Test
 Update line two
